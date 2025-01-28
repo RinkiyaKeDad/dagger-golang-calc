@@ -1,0 +1,6 @@
+{
+  "name": "dagger-golang-calc",
+  "engineVersion": "v0.15.1",
+  "sdk": "go",
+  "source": "dagger"
+}
