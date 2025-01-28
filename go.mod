@@ -1,6 +1,6 @@
 module github.com/dagger-golang-calc
 
-go 1.23.3
+go 1.23
 
 require github.com/stretchr/testify v1.10.0
 
