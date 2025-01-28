@@ -15,5 +15,5 @@ jobs:
         with:
           version: "latest"
           verb: call
-          module: github.com/kpenfound/dagger-modules/golang@v0.2.0
+          module: github.com/rinkiyakedad/dagger-golang-calc
           args: test --source=.
